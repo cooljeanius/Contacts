@@ -4,5 +4,10 @@ build/*
 *.build
 *.pbxuser
 *.perspectivev3
-Debug/
+Debug/*
+*/Debug
+*.cbtemp
+*.o
+bin/*
+*/bin
 
